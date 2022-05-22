@@ -2,3 +2,4 @@ gamifigation ---BUG-NO---2265 & 2269
 log page bug- validation required 
 login page --2 bug add
 Login page 1 bug add
+admin pa[e--3 bug add
