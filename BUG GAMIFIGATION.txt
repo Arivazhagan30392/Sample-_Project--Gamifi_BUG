@@ -1,1 +1,2 @@
 gamifigation ---BUG-NO---2265 & 2269
+log page bug- validation required
